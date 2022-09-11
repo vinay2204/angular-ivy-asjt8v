@@ -1,0 +1,30 @@
+.box {
+  background: #f4f4f4;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  font-size: 18px;
+  text-align: center;
+  width: 300px;
+}
+
+input {
+  background: #f4f4f4;
+  font-size: 18px;
+  border: 1px solid #f8f8f8;
+  display: block;
+  width: 80%;
+  padding: 12px 18px;
+}
+button {
+  background: #28a745;
+  border-radius: 10px;
+  color: #f4f4f4;
+  padding: 8px 18px;
+  border: 0;
+  margin: 5px auto;
+  display: inline-block;
+}
+.count {
+  text-align: center;
+}

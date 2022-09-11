@@ -1,3 +1,35 @@
 p {
   font-family: Lato;
 }
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.parent-box {
+  background: #fdfdfd;
+  border: 1px solid #d9d9d9;
+  padding: 15px;
+  border-radius: 5px;
+  width: 48%;
+}
+
+.parent-box h2 {
+  margin: 0;
+  padding: 0 0 15px;
+  color: #4ec;
+  font-size: 42px;
+}
+
+.parent-box table {
+  font-size: 30px;
+  text-align: left;
+}
+
+.parent-box table th {
+  background: #f4f4f4;
+}
+
+.parent-box .removeLink {
+  color: #d00421;
+}
